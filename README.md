@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 
-Manauense de 17 anos, estudando na Universidade do Estado do Amazonas, cursando Engenharia da Computação;  
+Manauense de 18 anos, estudando na Universidade do Estado do Amazonas, cursando Engenharia da Computação;  
 Cogito, ergo sum.
 
 ### Linguagens que utilizo:
